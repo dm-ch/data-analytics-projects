@@ -2,11 +2,7 @@
 
 Этот репозиторий содержит в себе проекты, выполненные в рамках обучения в Яндекс.Практикуме по специальности Аналитик данных
 
-# Data-Analytics-Projects:
-
-This repository is mainly for projects I have done under Udacity-Data-Analysis-Nanodegree. 
-
-Udacity online data analyst program prepares me for a career as a data analyst by helping me learn to clean and organize data, uncover patterns and insights, draw meaningful conclusions, and clearly communicate critical findings. I am developing proficiency in Python and its data analysis libraries (Numpy, pandas, Matplotlib) and SQL as I build a portfolio of projects .
+Онлайн программа Яндекс.Практикума по специальности Аналитик данных подготовила меня для старта карьеры индустрии IT в направлении анализа данных. Я научися чистить и группировать данные, находить в них паттерны и закономерности, визуализировать данные, а так же формулировать на основе работы выводы и давать рекомендации к дальнейшим действиям. Я уверенно освоил Python и его сопутствующие библиотеки для анализа данных (Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly). В дополнение я изучил язык общения с базами данных SQL. Все пройденые темы были закреплены итоговыми работами. В этом репозитории находятся некоторые из них.
 
 ## Модуль 1
 
@@ -54,4 +50,3 @@ Udacity online data analyst program prepares me for a career as a data analyst b
   * Алгоритмы машинного обучения 
   * Задачи для машинного обучения
   
-По завершению каждого модуля была выполнена итоговая работа, включающая все изученные в модуле темы. 
